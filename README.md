@@ -6,7 +6,7 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ## Features
 
-- Provision rsources with Terraform.
+- Provision resources(data architecture)  with Terraform.
 - Upload data to Google Cloud Storage.
 - Extract data from GCS in CSV format.
 - Load raw data into a staging table in BigQuery.
@@ -53,13 +53,13 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 ## Setup Instructions
 
 ### Prerequisites
-1. Terraform Installed
-2. Use this blog for Terraform Installation on you local machine - https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+1. Terraform Installed.
+2. Use this [blog](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) for Terraform Installation on you local machine.
 3. A Google Cloud project with:
    - BigQuery and Cloud Storage enabled.
    - Service account with required permissions.
 4. Apache Airflow installed.
-5. Use Blog for Airflow Installation on VM - https://www.techtrapture.com/blogs/673a2625dd155b000b7cdb3b 
+5. Use [blog](https://www.techtrapture.com/blogs/673a2625dd155b000b7cdb3b) for Airflow Installation on your Google Compyte Engne (Virtual Machine). 
 
 ## End Result
 
