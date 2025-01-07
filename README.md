@@ -20,6 +20,14 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ![image](https://github.com/user-attachments/assets/87cdc79c-c9a1-4c4d-887a-ab6007394bc7)
 
+## Architecture
+
+![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/data_pipeline_architecture.pdf)
+
+<p align="center" style="margin-bottom: 0px !important;">
+<img src="https://github.com/Chisomnwa/SQL-Challenge-Case-Study-4---Data-Bank/blob/main/Images/Data%20Bank%20Logo.png" width="540" height="540">
+
+
 
 ### Workflow
 1. **Extract**: Check for file existence in GCS.
