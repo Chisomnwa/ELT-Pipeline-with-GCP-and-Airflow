@@ -18,7 +18,7 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ## Architecture
 
-![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/data_pipeline_architecture.png)
+![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/data_pipeline_architecture.jpg)
 
 
 ### Workflow
