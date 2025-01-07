@@ -65,9 +65,9 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ### Airflow Pipeline
 
-![image](https://github.com/user-attachments/assets/8e8b8373-9d2a-417b-9fd9-5f42171c06f8)
+![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/airflow_pipeline.png)
 
 
 ### Looker Studio Report
 
-![image](https://github.com/user-attachments/assets/d06f0d3e-a1d0-404a-9eb7-c61c85df8257)
+![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/google_looker_studio_dashboard.png)
