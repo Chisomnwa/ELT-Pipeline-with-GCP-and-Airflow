@@ -22,10 +22,12 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ## Architecture
 
-![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/data_pipeline_architecture.pdf)
+![image](https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/data_warehouse_architecture.jpg)
+
+## Arc
 
 <p align="center" style="margin-bottom: 0px !important;">
-<img src="https://github.com/Chisomnwa/SQL-Challenge-Case-Study-4---Data-Bank/blob/main/Images/Data%20Bank%20Logo.png" width="540" height="540">
+<img src="https://github.com/Chisomnwa/ELT-Pipeline-with-GCP-and-Airflow/blob/main/project_files/data_warehouse_architecture.jpg" width="540" height="540">
 
 
 
