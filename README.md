@@ -75,5 +75,4 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 ---
  ## Extra Resources
  - [Medium Article](https://medium.com/@chisompromise/8-week-sql-challenge-data-bank-abcfe0ea7722)
- - [Global Health Analytics Dashboard](https://lookerstudio.google.com/s/ptjUzMx6nWI)
    
