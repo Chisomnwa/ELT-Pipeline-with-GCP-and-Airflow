@@ -39,7 +39,7 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ### Tools and Services
 - **Terraform**:
-  - For provisioning of data architecture
+  - For provisioning of data infrastructure
 - **Google Cloud Platform (GCP)**:
   - Google Compute Engine (for Airflow)
   - BigQuery
