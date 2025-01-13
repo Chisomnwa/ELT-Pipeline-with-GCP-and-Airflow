@@ -74,5 +74,5 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ---
  ## Extra Resources
- - [Medium Article](https://medium.com/@chisompromise/8-week-sql-challenge-data-bank-abcfe0ea7722)
+ - [Medium Article](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
    
