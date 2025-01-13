@@ -54,12 +54,12 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ### Prerequisites
 1. Terraform Installed.
-  - Use this [blog](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) for Terraform Installation on you local machine.
+  - Use this [blog](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) for Terraform Installation on your local machine.
 3. A Google Cloud project with:
    - BigQuery, Cloud Storage and Compute Engine API enabled.
    - Service account with required permissions.
 4. Apache Airflow installed.
-   - Use [blog](https://www.techtrapture.com/blogs/673a2625dd155b000b7cdb3b) for Airflow Installation on your Google Cloud Compute Engine (Virtual Machine). 
+   - Use this [blog](https://www.techtrapture.com/blogs/673a2625dd155b000b7cdb3b) for Airflow Installation on your Google Cloud Compute Engine instance(Virtual Machine). 
 
 ## End Result
 
