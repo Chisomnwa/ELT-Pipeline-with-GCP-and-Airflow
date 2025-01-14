@@ -1,7 +1,7 @@
 """
 Author: Chisom Nnamani
 Date: 2025-01-02
-Purpose: This DAG script demonstraes how to load data from GCS to BigQuery
+Purpose: This DAG script demonstrates how to load data from GCS to BigQuery
          and create country-specific tables and views for reporting.
 
 Note: This script contains placeholder values that you need to replace with your actual values
