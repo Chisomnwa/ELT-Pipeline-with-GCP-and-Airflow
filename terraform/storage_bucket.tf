@@ -10,4 +10,8 @@ resource "google_storage_bucket" "medical_global_bucket" {
     project     = "etl-pipeline"
     owner       = "chisom"
   }
+
+  versioning {
+    enabled = true
+  }
 }
