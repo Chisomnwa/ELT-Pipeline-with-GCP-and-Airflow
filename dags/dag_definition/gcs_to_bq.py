@@ -48,7 +48,8 @@ transformed_dataset_id = 'transformed_dataset'
 reporting_dataset_id = 'reporting_dataset'
 source_table = f'{project_id}.{staging_dataset_id}.global_data' # the main table to hold the raw data
 countries = ['Nigeria', 'USA', 'Germany', 'India', 'Japan', 'France', 'Canada', 'Italy']
-QUERY_SQL_PATH = "sql_scripts/"
+QUERY_SQL_PATH = "../sql_scripts/"
+
 
 # DAG Definition
 with DAG (
