@@ -4,6 +4,18 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ---
 
+## Project Requirements
+The medical research team of a certain organization receives this global health statistics file containing disease data for all countries.
+
+Each country’s Health Minister should have access only to their respective country’s medical data. Additionally, they need the ability to analyze diseases for which no treatment or vaccination is currently available.
+
+## Challenges
+The data is currently provided as a single file containing over 1 million records for all countries.
+due to the confidential nature of the data, sharing the entire file with everyone is not feasible.
+analyzing such a CSV file to extract meaningful insights is complex and inefficient.
+Objective
+Develop a robust data analytics solution to securely manage and filter this data securely, ensuring restricted and enabling efficient analysis of diseases without available treatment or vaccination.
+
 ## Features
 
 - Provision resources(data architecture) with Terraform.
